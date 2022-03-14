@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0-1
+Summary: EDSA Example Python Code
+Home-page: https://github.com/RogerA11
+Author: Roger Arendse
+Author-email: roger.arendse713@gmail.com
+License: MIT
+Description: # mypackage
+        
+Platform: UNKNOWN
